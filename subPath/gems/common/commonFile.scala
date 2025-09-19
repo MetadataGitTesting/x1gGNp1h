@@ -1,1 +1,1 @@
-import com.whatever rightUpdate
+import com.whatever.resolvedManually
